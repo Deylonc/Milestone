@@ -1,0 +1,52 @@
+
+<html>
+    <head>
+        <title>Famous Marching 100</title>
+    </head>
+    <body>
+        <h1>Welcome to the Famous Marching 100!</h1>
+        <p>This website is dedicated to the world famous Marching 100, a drum and bugle corps based out of Florida A&M University. Here you will find all the information you need about this amazing organization, including news, events, history, and more.</p>
+
+        <!-- Navigation Menu --> 
+        <h2>Navigation</h2> 
+        <ul class="menu"> 
+            <li><a href="index.html">Home</a></li> 
+            <li><a href="history.html">History</a></li > 
+            <li><a href="events.html">Events</a></li > 
+            <li><a href="news.html">News & Updates</a></li > 
+            <li><a href="contact.html">Contact Us</a></li >  
+
+        </ul>  
+
+        <!-- Main Content --> 
+
+        <h2>Upcoming Events</h2> 
+
+        <!-- Event 1 -->  
+
+        <div class="event-card">  
+
+             <h3 class="event-title">Concert at FAMU Stadium - June 15th 2021</h3 >  
+
+             <p class="event-info"><strong style="color:blue; font-size: 1.2em;">Location: </strong ><span style= "font-style: italic; font-size: 1em; color:#9E9E9E; padding: 10px 0px;" >Tallahassee, FL - FAMU Stadium </span></p >    
+
+             <p class="event-info"><strong style="color:blue; font-size: 1.2em; padding: 10px 0px;" >Time & Date : </strong ><span style= "font-style: italic; font-size: 1em; color:#9E9E9E;" >7pm on June 15th 2021 </span></p >    
+
+             <p class="event-info"><strong style= "color : blue ; font - size : 1 . 2 em ; padding : 10px 0px;" >Tickets : </ strong >< span style =" font - style : italic ; font - size : 1 em ; color : # 9 E 9 E 9 E ;" >< a href = "http://www . famumarching100 . org / tickets" target = "_blank" rel = "noopener noreferrer" > Buy Tickets Here !< / a >< / span >< / p >   
+
+         </div > 
+
+         <!-- Event 2 --->  
+
+         div class =" event - card ">  
+
+             h3 class =" event - title ">" Drumline Battles against UF Gator Band – July 5th 2021 "< / h3 >    
+
+             p class =" event - info ">< strong style =" color : blue ; font - size : 1 . 2 em ; padding : 10px 0px ;" > Location : "< / strong >< span style =" font - style : italic ; font - size : 1 em ; color : # 9 E 9 E 9 E ; padding : 10px 0px ;" > Gainesville, FL - Ben Hill Griffin Stadium < / span >< / p >   
+
+             p class =" event - info ">< strong style =" color : blue ; font - size : 1 . 2 em ; padding : 10px 0px ;" > Time & Date : "< / strong >< span style =" font - style : italic ; font - size : 1 em ; color : # 9 E 9 E 9 E ; padding : 10px 0px ;" > 7pm on July 5th 2021 < / span >< / p >   
+
+             p class =" event - info ">< strong style =" color:blue; font-size:1.2em; padding:10px 0px;" >Tickets: </strong><span style="font-style:italic; font-size:1em; color:#9E9E9E;"><a href="http://www.famumarching100.org/tickets" target="_blank" rel="noopener noreferrer"> Buy Tickets Here!</a></span></p>  
+            </div> 
+        </body> 
+</html>
